@@ -1,0 +1,78 @@
+
+.li{
+    list-style: none;
+    font-size:20px;
+   
+    
+
+
+
+}
+
+li{
+    display: inline;
+    padding:20px ;
+   
+    
+}
+header{
+    display:flex;
+    /* align-items: end; */
+    background-color:blueviolet;
+    text-align: end;
+    
+
+
+}
+body{
+    margin: 0px;
+}
+.about{
+    font-size: 30px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-align: center;
+}
+.game{
+    display: flex;
+    font-size: large;
+}
+.services{
+    font-size: 30px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-align: center;
+}
+.types{
+    display: flex;
+    
+}
+/* .main{
+    background-color: rgb(37, 2, 71);
+} */
+ .click{
+    text-align:end;
+    font-size:30px ;
+   
+
+ }
+ .product{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+
+ }
+ .contact{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+
+ }
+ .cont{
+    padding-left:650px ;
+ }
+ .end{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color: cadetblue;
+
+ }
